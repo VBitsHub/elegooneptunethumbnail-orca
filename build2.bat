@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon="icons/elegoo.ico" --add-binary="ColPic_X64.dll;libs" --add-binary="libColPic.so;libs" --add-binary="libColPic.dylib;libs" --name="ElegooNeptuneThumbnails-Orca" elegoo_neptune_thumbnails.py
