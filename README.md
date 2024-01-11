@@ -1,1 +1,1 @@
-This is no longer needed in v1.90 of Orcaslicer. Orcaslicer now has elegoo touchscreen support bultin. Select ColPic for format of g-code thumbnails.
+This is no longer needed in v1.90 of Orcaslicer. Orcaslicer now has elegoo touchscreen support built-in. Select ColPic for format of g-code thumbnails. Please see https://github.com/VBitsHub/elegoo_moonraker for full support for Orca and Prusa slicer on the printer.
